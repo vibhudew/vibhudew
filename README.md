@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.radiofrance.fr/s3/cruiser-production/2020/08/58843221-d922-4b32-a7bb-c8c55bc7fc9d/1136_robot_arbres_gettyimages-640351115.webp" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vibhusha</h1>
-<h3 align="center">I'm a Agile Minded Passionate Tech-Enthusiast who've fallen love with data.</h3>
+<h3 align="center">I'm a Agile Minded Bias Breaker who've fallen in love with data.</h3>
 <br>
 
 ## 🙋‍♂️ About Me
