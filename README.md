@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.radiofrance.fr/s3/cruiser-production/2020/08/58843221-d922-4b32-a7bb-c8c55bc7fc9d/1136_robot_arbres_gettyimages-640351115.webp" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vibhusha</h1>
-<h3 align="center">I'm a Agile Minded Bias Breaker who've fallen in love with data.</h3>
+<h3 align="center">I'm an Agile Minded Bias Breaker who've fallen in love with data.</h3>
 <br>
 
 ## 🙋‍♂️ About Me
@@ -25,7 +25,9 @@
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.icons8.com/color/96/power-bi.png" alt="powerbi" width="48" height="48"/> </a> 
     <!--
     <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/96/hadoop-distributed-file-system.png" alt="hadoop" width="48" height="48"/> </a>
+-->
      <a href="https://spark.apache.org/docs/0.9.1/scala-programming-guide.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="48" height="48"/> </a>
+    <!--
      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
      -->
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a>
@@ -57,7 +59,7 @@
   
 <br/>
 
-<br><br> Vibing to : 🎧  </strong></p>
+<h2><a href="https://open.spotify.com/user/31xps3a3qk2opdarfoe2bp3dih64" target="_blank">Click to vibe with me🎵😇</a></h2>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31xps3a3qk2opdarfoe2bp3dih64) <br>
 <br>
@@ -66,8 +68,10 @@
 <p align="left">
 
 
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="www.linkedin.com/in/vibhusha-dewanmini"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!--
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+-->
 
 
 </p>
