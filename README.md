@@ -26,7 +26,7 @@
     <!--
     <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/96/hadoop-distributed-file-system.png" alt="hadoop" width="48" height="48"/> </a>
 -->
-     <a href="https://spark.apache.org/docs/0.9.1/scala-programming-guide.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="48" height="48"/> </a>
+    <!-- <a href="https://spark.apache.org/docs/0.9.1/scala-programming-guide.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="48" height="48"/> </a>-->
     <!--
      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
      -->
