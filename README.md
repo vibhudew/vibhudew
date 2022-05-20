@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Time Series Analysis Projects**
+- 🔭 I’m currently working on **Data Warehousing and BI projects**
 
 - 🌱 I’m currently learning **Massive Data Processing.**
 
