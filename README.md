@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Warehousing and BI projects**
+- 🔭 I’m currently working on **Massive Data Processing through Apache Spark**
 
-- 🌱 I’m currently learning **Massive Data Processing.**
+- 🌱 I’m currently learning **Time Series Modeling.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
