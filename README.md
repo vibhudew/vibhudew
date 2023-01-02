@@ -1,20 +1,21 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.radiofrance.fr/s3/cruiser-production/2020/08/58843221-d922-4b32-a7bb-c8c55bc7fc9d/1136_robot_arbres_gettyimages-640351115.webp" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vibhusha</h1>
 <h3 align="center">I'm an Agile Minded Bias Breaker who've fallen in love with data.</h3>
 <br>
+<img align="right" alt="Coding" width="500" src="https://www.bestyetexpresstrucking.com/wp-content/uploads/2022/06/iStock-1365669010.jpg">
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Massive Data Processing through Apache Spark**
+- 🔭 I’m currently working on **Convolutional Neural Networks**
 
-- 🌱 I’m currently learning **Time Series Modeling.**
+- 🌱 I’m currently learning **DB Optimization**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **dewanmini.vibhusha@gmail.com**
 
 - 😄 Pronouns: she/her
+
+<br>
 
 ## 🚀 Languages and Tools:
 
@@ -76,7 +77,3 @@
 
 
 </p>
-
-
-
-
