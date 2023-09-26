@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Convolutional Neural Networks**
+- 🔭 I’m currently working on **ETL Ingestioning**
 
 - 🌱 I’m currently learning **DB Optimization**
 
@@ -51,6 +51,8 @@
     </a>
 </p>
 
+<!--
+
 ## 📊 My Github Stats
 
   <br/>
@@ -58,6 +60,7 @@
     
   
   <br/>
+-->
   
 <br/>
 
