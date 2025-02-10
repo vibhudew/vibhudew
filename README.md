@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vibhusha</h1>
-<h3 align="center">I'm an Agile Minded Bias Breaker who've fallen in love with data.</h3>
+<h3 align="center">I'm a Growth Minded Bias Breaker who've fallen in love with data.</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://www.bestyetexpresstrucking.com/wp-content/uploads/2022/06/iStock-1365669010.jpg">
 
